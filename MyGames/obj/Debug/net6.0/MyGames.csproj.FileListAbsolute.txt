@@ -1,0 +1,14 @@
+C:\Users\xiaomi\source\repos\MyGames\MyGames\bin\Debug\net6.0\MyGames.exe
+C:\Users\xiaomi\source\repos\MyGames\MyGames\bin\Debug\net6.0\MyGames.deps.json
+C:\Users\xiaomi\source\repos\MyGames\MyGames\bin\Debug\net6.0\MyGames.runtimeconfig.json
+C:\Users\xiaomi\source\repos\MyGames\MyGames\bin\Debug\net6.0\MyGames.dll
+C:\Users\xiaomi\source\repos\MyGames\MyGames\bin\Debug\net6.0\MyGames.pdb
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.dll
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\refint\MyGames.dll
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.pdb
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\MyGames.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\MyGames\MyGames\obj\Debug\net6.0\ref\MyGames.dll
